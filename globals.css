@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --color-bg: #0D0D0F;
+  --color-volt: #B7FF00;
+  --color-accent: #FF6A00;
+}
+
+html,body,#root{height:100%;}
+body{background:var(--color-bg); color:white; font-family:Inter, system-ui, sans-serif}
+
+/* small utilities */
+.btn-volt{background:var(--color-volt); color:#000;}
+.card{background:rgba(255,255,255,0.03);}

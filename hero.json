@@ -1,0 +1,11 @@
+{
+  "collectionName": "heroes",
+  "info": { "singularName": "hero", "pluralName": "heroes", "displayName": "Hero" },
+  "options": { "draftAndPublish": true },
+  "attributes": {
+    "title": { "type": "string" },
+    "subtitle": { "type": "string" },
+    "ctaText": { "type": "string" },
+    "image": { "type": "media" }
+  }
+}

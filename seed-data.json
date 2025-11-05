@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "title": "Motion Runner", "description": "AI-optimized running shoe", "price": "12999" },
+    { "title": "Adaptive Jacket", "description": "Breathable adaptive jacket", "price": "7499" },
+    { "title": "Trail Shoes", "description": "Rugged trail shoe", "price": "9299" }
+  ],
+  "hero": {
+    "title": "Move with Intelligence",
+    "subtitle": "AI-designed gear for every motion",
+    "ctaText": "Shop Now"
+  }
+}
